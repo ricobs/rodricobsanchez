@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Data Analyst
+Data Science • Machine Learning • Life-long Learner
 
 - 🔭 I’m currently working on completing Data Science and Machine Learning at Bloom Institute of Technology.
 - 🌱 I’m want to learn mapping Neural Networks better.
