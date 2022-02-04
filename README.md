@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 
 Data Science • Machine Learning • Life-long Learner
 
