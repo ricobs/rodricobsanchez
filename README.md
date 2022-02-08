@@ -1,4 +1,4 @@
-<img src="https://github.com/rodricobsanchez/rodricobsanchez/rodrico sanchez.gif">
+<img src="https://github.com/rodricobsanchez/rodricobsanchez/rodricosanchez.gif">
 
 # Hello, world! 👋
 
