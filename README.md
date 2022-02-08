@@ -1,3 +1,5 @@
+<img src="https://github.com/pr2tik1/pr2tik1/rodrico sanchez.gif">
+
 # Hello, world! 👋
 
 #### You can find me on:
