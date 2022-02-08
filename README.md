@@ -11,4 +11,3 @@ Data Science • Machine Learning • Life-long Learner
 - ⚡ Fun fact: I have ate plant based for the last 4 years!
 
 ![Rico's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodricobsanchez&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodricobsanchez&layout=compact)](https://github.com/rodricobsanchez/github-readme-stats)
