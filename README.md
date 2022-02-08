@@ -7,7 +7,7 @@
 
 I am a Bloom Institute of Technology graduate student, who is passionate about Machine Learning and open source. I enjoy roles that are challenging and diverse. I enjoy both leading projects and contributing at a high level and appreciate roles that allow me to do both. In doing that I am able to wear a variety of 'hats' in order to get the job done. 
 
-- 🌱 I’m currently learning [Machine Learning](https://www.coursera.org/learn/machine-learning) and Functional programming
+- 🌱 I’m currently learning [Machine Learning](https://www.coursera.org/learn/machine-learning) MangoDB, AWS
 - 👯 I’m looking to collaborate on any Data Science project which seems interesting or useful
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
 - 🚴🏽 In my spare time I enjoy creating videos, hiking, camping, exploring new countries, and cooking creative vegetarian food. 
