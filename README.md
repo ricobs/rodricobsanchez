@@ -15,7 +15,6 @@ I am a Bloom Institute of Technology graduate student, who is passionate about M
 ## Some of my Github Public Stats
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=rodricobsanchez&show_icons=true&theme=radical&line_height=33">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rodricobsanchez&theme=radical">
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=rodricobsanchez&theme=blue-green)](https://github.com/rodricobsanchez/github-readme-streak-stats)">
 
 </p>
