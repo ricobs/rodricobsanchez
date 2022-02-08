@@ -1,4 +1,4 @@
-## Hi there, I'm Rico 
+## Hi there, I'm Rico ![Profile Views](https://komarev.com/ghpvc/?username=rodricobsanchez&color=blue)
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rodricobsanchez@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rodricobsanchez/ "Connect on LinkedIn")
@@ -15,9 +15,5 @@ I am a Bloom Institute of Technology graduate student, who is passionate about M
 ## Some of my Github Public Stats
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=rodricobsanchez&show_icons=true&theme=radical&line_height=33">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=rodricobsanchez&color=blue)
-  
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=rodricobsanchez&theme=blue-green)](https://github.com/rodricobsanchez/github-readme-streak-stats)">
-
 </p>
