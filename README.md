@@ -9,6 +9,5 @@ Data Science • Machine Learning • Life-long Learner
 - 💬 Ask me about homesteading and i'll never stop talking.
 - 😄 Pronouns: He/Him, They,Them
 - ⚡ Fun fact: I have ate plant based for the last 4 years!
-<!--
-**rodricobsanchez/rodricobsanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
+[![Rico's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodricobsanchez)](https://github.com/rodricobsanchez/github-readme-stats)
