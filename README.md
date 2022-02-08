@@ -14,8 +14,8 @@ I am a Bloom Institute of Technology graduate student, who is passionate about M
 - 👾 Fun fact: Everything that has been or could be written/said already exists in the [Library of Babel](https://libraryofbabel.info/)
 
 ## Some of my Github Public Stats
-![Profile Views](https://komarev.com/ghpvc/?username=rodricobsanchez&color=blue)
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=rodricobsanchez&show_icons=true&theme=radical&line_height=33">
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=rodricobsanchez&theme=blue-green)](https://github.com/rodricobsanchez/github-readme-streak-stats)">
 </p>
+![Profile Views](https://komarev.com/ghpvc/?username=rodricobsanchez&color=blue)
