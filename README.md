@@ -10,5 +10,4 @@ Data Science • Machine Learning • Life-long Learner
 - 😄 Pronouns: He/Him, They,Them
 - ⚡ Fun fact: I have ate plant based for the last 4 years!
 
-[![Rico's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodricobsanchez)](https://github.com/rodricobsanchez/github-readme-stats)
 ![Rico's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodricobsanchez&show_icons=true&theme=radical)
