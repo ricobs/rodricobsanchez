@@ -1,5 +1,6 @@
 ## Hi there, I'm Rico.
 
+![Profile Views](https://komarev.com/ghpvc/?username=rodricobsanchez&color=blue)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rodricobsanchez@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rodricobsanchez/ "Connect on LinkedIn")
 [![StackOverflow Badge](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/18043328/rico)
@@ -36,5 +37,3 @@ I am a Bloom Institute of Technology graduate student, who is passionate about M
   ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-![Profile Views](https://komarev.com/ghpvc/?username=rodricobsanchez&color=blue)
