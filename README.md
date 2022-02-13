@@ -1,4 +1,4 @@
-## Hi there, I'm Rico!!
+## Hi there, I'm Rico!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rodricobsanchez&color=blue)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rodricobsanchez/ "Connect on LinkedIn")
