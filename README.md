@@ -5,8 +5,8 @@
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/18043328/rico)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/rodricobsanchez/)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/rodricobsanchez)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/rodrico)
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/rodricobsanchez)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/rodrico)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=flat&logo=Codewars&logoColor=white)](https://www.codewars.com/users/rodricobsanchez)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rodricobsanchez@gmail.com "Connect via Email")
 
 I am a Bloom Institute of Technology graduate student, who is passionate about Machine Learning and open source. I enjoy roles that are challenging and diverse. I enjoy both leading projects and contributing at a high level and appreciate roles that allow me to do both. In doing that I am able to wear a variety of 'hats' in order to get the job done. 
