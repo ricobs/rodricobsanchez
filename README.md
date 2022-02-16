@@ -1,4 +1,4 @@
-## Hi there, I'm Rico!!!!!
+## Hi there, I'm Rico!!!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodricobsanchez/ "Connect on LinkedIn")
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18043328/rico)
