@@ -8,7 +8,7 @@
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=flat&logo=Codewars&logoColor=white)](https://www.codewars.com/users/rodricobsanchez)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rodricobsanchez@gmail.com "Connect via Email")
 
-I am a Bloom Institute of Technology graduate student, who is passionate about Machine Learning and open source. I enjoy roles that are challenging and diverse. I enjoy both leading projects and contributing at a high level and appreciate roles that allow me to do both. In doing that I am able to wear a variety of 'hats' in order to get the job done. 
+I am a Bloom Institute of Technology graduate, who is passionate about Machine Learning and open source. I enjoy roles that are challenging and diverse. I enjoy both leading projects and contributing at a high level and appreciate roles that allow me to do both. In doing that I am able to wear a variety of 'hats' in order to get the job done. 
 
 - 🔨 I'm currently working with [a nonprofit that aims to help formerly incarcerated or disadvantaged people find careers in tech](https://www.underdogdevs.org/)
 - 🌱 I’m currently learning [Machine Learning](https://www.coursera.org/learn/machine-learning), MangoDB, AWS
